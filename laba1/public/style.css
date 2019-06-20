@@ -1,0 +1,35 @@
+.site{
+    width: 950px;
+
+    margin: auto;
+position: center;
+}
+.per{
+    width:40%;
+    height: 100px;
+    background: black;
+    border: 100px;
+    margin-top: 40px;
+    margin-left: 300px;
+}
+.vtor{
+width: 90%;
+    height: 70px;
+    background: red;
+    margin-top: 10px;
+    margin-left: 70px;
+}
+.trety{
+    width: 40%;
+    height: 150px;
+    background: green;
+    margin-top: 10px;
+    margin-left: 300px;
+}
+.chet{
+    width: 90%;
+    height: 100px;
+    background: rebeccapurple;
+    margin-top: 10px;
+    margin-left: 70px;
+}
